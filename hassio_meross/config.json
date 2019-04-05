@@ -2,6 +2,7 @@
   "name": "Hassio Meross",
   "version": "0.1.2",
   "slug": "hassio_meross",
+  "arch": ["amd64","i386"],
   "description": "Hassio addon for Meross device using MQTT and autodiscovery.",
   "startup": "services",
   "boot": "auto",
